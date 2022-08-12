@@ -1,0 +1,15 @@
+112,Hom Nay Toi That Tinh,Ha Vu,Kim Dong,2001
+101,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Kim Dong,2015 
+115,Cho toi xin mot ve di tuoi tho,Nguyen Nhat Anh,Kim Dong,2019 
+110,Co gai den tu hom qua,Nguyen Nhat Anh,Kim Dong,2015 
+107,Con cho nho mang gio hoa hong ,Nguyen Nhat Anh,Kim Dong,2011 
+109,Co hai con meo ngoi ben cua so,Nguyen Nhat Anh,Kim Dong,2003 
+106,Tren duong bang,Tony,Ho Chi Minh,2001 
+108,Ngon den khong tat,Nguyen Ngoc Tu,Ha Noi,2002 
+104,Ca phe cung Tony,Tony,Ho Chi Minh,2000
+105,Tuoi 20 Toi Da Song Nhu Mot Bong Hoa Dai,Trang XTD,Dong Nai,2015 
+103,Co hoi cua Chua,Nguyen Viet Ha,Dong Nai,2003 
+114,He mien dich kiet tac cua su song,Nguyen Viet Ha,Dong Nai,2002 
+113,Dung viec,Gian Tu Trung,An Giang,2005 
+102,Toi tu hoc,Nguyen Duy Can,Ho Chi Minh,2000 
+111,That Tinh Khong Sao,Nguyen Ngoc Thach,Dong Nai,2013 
